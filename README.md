@@ -1,14 +1,3 @@
-Here is a **proper professional `README.md` for your exact repo structure** (based on your screenshot).
-Copy this fully into a file named:
-
-```bash
-README.md
-```
-
-inside your project folder.
-
----
-
 # 🚀 Flask + Redis Multi-Container Application using Docker & Docker Compose
 
 This project demonstrates how to containerize a **Flask web application** and integrate it with a **Redis service** using **Docker** and **Docker Compose**. It showcases how multiple containers communicate inside a shared Docker network and how backend services are orchestrated in a real-world development setup.
